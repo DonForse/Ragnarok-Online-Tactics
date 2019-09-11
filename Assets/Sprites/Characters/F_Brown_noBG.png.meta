@@ -1,0 +1,3267 @@
+fileFormatVersion: 2
+guid: 0304b0d837395504aa8d4b0fafed9e26
+timeCreated: 1445190735
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: F_Brown_noBG_0
+    21300002: F_Brown_noBG_1
+    21300004: F_Brown_noBG_2
+    21300006: F_Brown_noBG_3
+    21300008: F_Brown_noBG_4
+    21300010: F_Brown_noBG_5
+    21300012: F_Brown_noBG_6
+    21300014: F_Brown_noBG_7
+    21300016: F_Brown_noBG_8
+    21300018: F_Brown_noBG_9
+    21300020: F_Brown_noBG_10
+    21300022: F_Brown_noBG_11
+    21300024: F_Brown_noBG_12
+    21300026: F_Brown_noBG_13
+    21300028: F_Brown_noBG_14
+    21300030: F_Brown_noBG_15
+    21300032: F_Brown_noBG_16
+    21300034: F_Brown_noBG_17
+    21300036: F_Brown_noBG_18
+    21300038: F_Brown_noBG_19
+    21300040: F_Brown_noBG_20
+    21300042: F_Brown_noBG_21
+    21300044: F_Brown_noBG_22
+    21300046: F_Brown_noBG_23
+    21300048: F_Brown_noBG_24
+    21300050: F_Brown_noBG_25
+    21300052: F_Brown_noBG_26
+    21300054: F_Brown_noBG_27
+    21300056: F_Brown_noBG_28
+    21300058: F_Brown_noBG_29
+    21300060: F_Brown_noBG_30
+    21300062: F_Brown_noBG_31
+    21300064: F_Brown_noBG_32
+    21300066: F_Brown_noBG_33
+    21300068: F_Brown_noBG_34
+    21300070: F_Brown_noBG_35
+    21300072: F_Brown_noBG_36
+    21300074: F_Brown_noBG_37
+    21300076: F_Brown_noBG_38
+    21300078: F_Brown_noBG_39
+    21300080: F_Brown_noBG_40
+    21300082: F_Brown_noBG_41
+    21300084: F_Brown_noBG_42
+    21300086: F_Brown_noBG_43
+    21300088: F_Brown_noBG_44
+    21300090: F_Brown_noBG_45
+    21300092: F_Brown_noBG_46
+    21300094: F_Brown_noBG_47
+    21300096: F_Brown_noBG_48
+    21300098: F_Brown_noBG_49
+    21300100: F_Brown_noBG_50
+    21300102: F_Brown_noBG_51
+    21300104: F_Brown_noBG_52
+    21300106: F_Brown_noBG_53
+    21300108: F_Brown_noBG_54
+    21300110: F_Brown_noBG_55
+    21300112: F_Brown_noBG_56
+    21300114: F_Brown_noBG_57
+    21300116: F_Brown_noBG_58
+    21300118: F_Brown_noBG_59
+    21300120: F_Brown_noBG_60
+    21300122: F_Brown_noBG_61
+    21300124: F_Brown_noBG_62
+    21300126: F_Brown_noBG_63
+    21300128: F_Brown_noBG_64
+    21300130: F_Brown_noBG_65
+    21300132: F_Brown_noBG_66
+    21300134: F_Brown_noBG_67
+    21300136: F_Brown_noBG_68
+    21300138: F_Brown_noBG_69
+    21300140: F_Brown_noBG_70
+    21300142: F_Brown_noBG_71
+    21300144: F_Brown_noBG_72
+    21300146: F_Brown_noBG_73
+    21300148: F_Brown_noBG_74
+    21300150: F_Brown_noBG_75
+    21300152: F_Brown_noBG_76
+    21300154: F_Brown_noBG_77
+    21300156: F_Brown_noBG_78
+    21300158: F_Brown_noBG_79
+    21300160: F_Brown_noBG_80
+    21300162: F_Brown_noBG_81
+    21300164: F_Brown_noBG_82
+    21300166: F_Brown_noBG_83
+    21300168: F_Brown_noBG_84
+    21300170: F_Brown_noBG_85
+    21300172: F_Brown_noBG_86
+    21300174: F_Brown_noBG_87
+    21300176: F_Brown_noBG_88
+    21300178: F_Brown_noBG_89
+    21300180: F_Brown_noBG_90
+    21300182: F_Brown_noBG_91
+    21300184: F_Brown_noBG_92
+    21300186: F_Brown_noBG_93
+    21300188: F_Brown_noBG_94
+    21300190: F_Brown_noBG_95
+    21300192: F_Brown_noBG_96
+    21300194: F_Brown_noBG_97
+    21300196: F_Brown_noBG_98
+    21300198: F_Brown_noBG_99
+    21300200: F_Brown_noBG_100
+    21300202: F_Brown_noBG_101
+    21300204: F_Brown_noBG_102
+    21300206: F_Brown_noBG_103
+    21300208: F_Brown_noBG_104
+    21300210: F_Brown_noBG_105
+    21300212: F_Brown_noBG_106
+    21300214: F_Brown_noBG_107
+    21300216: F_Brown_noBG_108
+    21300218: F_Brown_noBG_109
+    21300220: F_Brown_noBG_110
+    21300222: F_Brown_noBG_111
+    21300224: F_Brown_noBG_112
+    21300226: F_Brown_noBG_113
+    21300228: F_Brown_noBG_114
+    21300230: F_Brown_noBG_115
+    21300232: F_Brown_noBG_116
+    21300234: F_Brown_noBG_117
+    21300236: F_Brown_noBG_118
+    21300238: F_Brown_noBG_119
+    21300240: F_Brown_noBG_120
+    21300242: F_Brown_noBG_121
+    21300244: F_Brown_noBG_122
+    21300246: F_Brown_noBG_123
+    21300248: F_Brown_noBG_124
+    21300250: F_Brown_noBG_125
+    21300252: F_Brown_noBG_126
+    21300254: F_Brown_noBG_127
+    21300256: F_Brown_noBG_128
+    21300258: F_Brown_noBG_129
+    21300260: F_Brown_noBG_130
+    21300262: F_Brown_noBG_131
+    21300264: F_Brown_noBG_132
+    21300266: F_Brown_noBG_133
+    21300268: F_Brown_noBG_134
+    21300270: F_Brown_noBG_135
+    21300272: F_Brown_noBG_136
+    21300274: F_Brown_noBG_137
+    21300276: F_Brown_noBG_138
+    21300278: F_Brown_noBG_139
+    21300280: F_Brown_noBG_140
+    21300282: F_Brown_noBG_141
+    21300284: F_Brown_noBG_142
+    21300286: F_Brown_noBG_143
+    21300288: F_Brown_noBG_144
+    21300290: F_Brown_noBG_145
+    21300292: F_Brown_noBG_146
+    21300294: F_Brown_noBG_147
+    21300296: F_Brown_noBG_148
+    21300298: F_Brown_noBG_149
+    21300300: F_Brown_noBG_150
+    21300302: F_Brown_noBG_151
+    21300304: F_Brown_noBG_152
+    21300306: F_Brown_noBG_153
+    21300308: F_Brown_noBG_154
+    21300310: F_Brown_noBG_155
+    21300312: F_Brown_noBG_156
+    21300314: F_Brown_noBG_157
+    21300316: F_Brown_noBG_158
+    21300318: F_Brown_noBG_159
+    21300320: F_Brown_noBG_160
+    21300322: F_Brown_noBG_161
+    21300324: F_Brown_noBG_162
+    21300326: F_Brown_noBG_163
+    21300328: F_Brown_noBG_164
+    21300330: F_Brown_noBG_165
+    21300332: F_Brown_noBG_166
+    21300334: F_Brown_noBG_167
+    21300336: F_Brown_noBG_168
+    21300338: F_Brown_noBG_169
+    21300340: F_Brown_noBG_170
+    21300342: F_Brown_noBG_171
+    21300344: F_Brown_noBG_172
+    21300346: F_Brown_noBG_173
+    21300348: F_Brown_noBG_174
+    21300350: F_Brown_noBG_175
+    21300352: F_Brown_noBG_176
+    21300354: F_Brown_noBG_177
+    21300356: F_Brown_noBG_178
+    21300358: F_Brown_noBG_179
+    21300360: F_Brown_noBG_180
+    21300362: F_Brown_noBG_181
+    21300364: F_Brown_noBG_182
+    21300366: F_Brown_noBG_183
+    21300368: F_Brown_noBG_184
+    21300370: F_Brown_noBG_185
+    21300372: F_Brown_noBG_186
+    21300374: F_Brown_noBG_187
+    21300376: F_Brown_noBG_188
+    21300378: F_Brown_noBG_189
+    21300380: F_Brown_noBG_190
+    21300382: F_Brown_noBG_191
+    21300384: F_Brown_noBG_192
+    21300386: F_Brown_noBG_193
+    21300388: F_Brown_noBG_194
+    21300390: F_Brown_noBG_195
+    21300392: F_Brown_noBG_196
+    21300394: F_Brown_noBG_197
+    21300396: F_Brown_noBG_198
+    21300398: F_Brown_noBG_199
+    21300400: F_Brown_noBG_200
+    21300402: F_Brown_noBG_201
+    21300404: F_Brown_noBG_202
+    21300406: F_Brown_noBG_203
+    21300408: F_Brown_noBG_204
+    21300410: F_Brown_noBG_205
+    21300412: F_Brown_noBG_206
+    21300414: F_Brown_noBG_207
+    21300416: F_Brown_noBG_208
+    21300418: F_Brown_noBG_209
+    21300420: F_Brown_noBG_210
+    21300422: F_Brown_noBG_211
+    21300424: F_Brown_noBG_212
+    21300426: F_Brown_noBG_213
+    21300428: F_Brown_noBG_214
+    21300430: F_Brown_noBG_215
+    21300432: F_Brown_noBG_216
+    21300434: F_Brown_noBG_217
+    21300436: F_Brown_noBG_218
+    21300438: F_Brown_noBG_219
+    21300440: F_Brown_noBG_220
+    21300442: F_Brown_noBG_221
+    21300444: F_Brown_noBG_222
+    21300446: F_Brown_noBG_223
+    21300448: F_Brown_noBG_224
+    21300450: F_Brown_noBG_225
+    21300452: F_Brown_noBG_226
+    21300454: F_Brown_noBG_227
+    21300456: F_Brown_noBG_228
+    21300458: F_Brown_noBG_229
+    21300460: F_Brown_noBG_230
+    21300462: F_Brown_noBG_231
+    21300464: F_Brown_noBG_232
+    21300466: F_Brown_noBG_233
+    21300468: F_Brown_noBG_234
+    21300470: F_Brown_noBG_235
+    21300472: F_Brown_noBG_236
+    21300474: F_Brown_noBG_237
+    21300476: F_Brown_noBG_238
+    21300478: F_Brown_noBG_239
+    21300480: F_Brown_noBG_240
+    21300482: F_Brown_noBG_241
+    21300484: F_Brown_noBG_242
+    21300486: F_Brown_noBG_243
+    21300488: F_Brown_noBG_244
+    21300490: F_Brown_noBG_245
+    21300492: F_Brown_noBG_246
+    21300494: F_Brown_noBG_247
+    21300496: F_Brown_noBG_248
+    21300498: F_Brown_noBG_249
+    21300500: F_Brown_noBG_250
+    21300502: F_Brown_noBG_251
+    21300504: F_Brown_noBG_252
+    21300506: F_Brown_noBG_253
+    21300508: F_Brown_noBG_254
+    21300510: F_Brown_noBG_255
+    21300512: F_Brown_noBG_256
+    21300514: F_Brown_noBG_257
+    21300516: F_Brown_noBG_258
+    21300518: F_Brown_noBG_259
+    21300520: F_Brown_noBG_260
+    21300522: F_Brown_noBG_261
+    21300524: F_Brown_noBG_262
+    21300526: F_Brown_noBG_263
+    21300528: F_Brown_noBG_264
+    21300530: F_Brown_noBG_265
+    21300532: F_Brown_noBG_266
+    21300534: F_Brown_noBG_267
+    21300536: F_Brown_noBG_268
+    21300538: F_Brown_noBG_269
+    21300540: F_Brown_noBG_270
+    21300542: F_Brown_noBG_271
+    21300544: F_Brown_noBG_272
+    21300546: F_Brown_noBG_273
+    21300548: F_Brown_noBG_274
+    21300550: F_Brown_noBG_275
+    21300552: F_Brown_noBG_276
+    21300554: F_Brown_noBG_277
+    21300556: F_Brown_noBG_278
+    21300558: F_Brown_noBG_279
+    21300560: F_Brown_noBG_280
+    21300562: F_Brown_noBG_281
+    21300564: F_Brown_noBG_282
+    21300566: F_Brown_noBG_283
+    21300568: F_Brown_noBG_284
+    21300570: F_Brown_noBG_286
+    21300572: F_Brown_noBG_289
+    21300574: F_Brown_noBG_294
+    21300576: F_Brown_noBG_322
+    21300578: F_Brown_noBG_337
+    21300580: F_Brown_noBG_345
+    21300582: F_Brown_noBG_354
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: F_Brown_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1113
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1112
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1112
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1113
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1112
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1113
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1113
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1114
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1115
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1115
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1115
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1114
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1114
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1117
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1116
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1054
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1053
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1052
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1051
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1051
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1053
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1054
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1053
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1055
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1054
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1055
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1053
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1053
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1057
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1055
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 994
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 994
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 993
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 992
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 992
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 993
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 994
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 994
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 995
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 994
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 995
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 993
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 993
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 997
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 996
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 932
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 933
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 928
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 928
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_49
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 928
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 931
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 933
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 932
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 935
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_54
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 933
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_55
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 934
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_56
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 930
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_57
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 930
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_58
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 937
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_59
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 933
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 873
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 873
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_62
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 864
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 863
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_64
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 862
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_65
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 873
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 873
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_67
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 873
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 876
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_69
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 874
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 874
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_71
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 868
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_72
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 871
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_73
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 877
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_74
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 875
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 813
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 813
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 812
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 811
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_79
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 811
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_80
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 813
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_81
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 813
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_82
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 814
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_83
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 815
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_84
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 813
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_85
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 813
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_86
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 813
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_87
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 814
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_88
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 817
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_89
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 816
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_90
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 748
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 748
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 749
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 750
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_94
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 749
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_95
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 749
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_96
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 752
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_97
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 753
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_98
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 755
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_99
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 750
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_100
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 751
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_101
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 752
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_102
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 753
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_103
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 753
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_104
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 756
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 692
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 693
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_107
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 689
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_108
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 687
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_109
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 687
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_110
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 692
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 695
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_112
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 693
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_113
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 695
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_114
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 693
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_115
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 693
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_116
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 689
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_117
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 689
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_118
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 697
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_119
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 692
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 633
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_121
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 633
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 632
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_123
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 632
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 631
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_125
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 634
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_126
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 635
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_127
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 633
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_128
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 635
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_129
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 633
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_130
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 634
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_131
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 633
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_132
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 632
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_133
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 637
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_134
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 634
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_135
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 574
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_136
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 574
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_137
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 573
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_138
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 574
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 574
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_140
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 574
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_141
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 573
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 574
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_143
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 575
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_144
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 574
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_145
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 574
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_146
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 573
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_147
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 573
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_148
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 577
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_149
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 573
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_150
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_151
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 514
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_152
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 513
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_153
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 513
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_154
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 513
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_155
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 514
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_156
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 515
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_157
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 514
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_158
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 516
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_159
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 513
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_160
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 513
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_161
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 514
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_162
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 514
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_163
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 517
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_164
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 515
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_165
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 452
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_166
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 453
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_167
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 450
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_168
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 449
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_169
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_170
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 453
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_171
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 454
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_172
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 449
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_173
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 455
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_174
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 453
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_175
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 453
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_176
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 449
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_177
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 449
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_178
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 457
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_179
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 452
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_180
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 394
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_181
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 394
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_182
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 393
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_183
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 393
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_184
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 392
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_185
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 394
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_186
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 395
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_187
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 395
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_188
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 396
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_189
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 395
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_190
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 395
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_191
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 394
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_192
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 394
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_193
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 397
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_194
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 396
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_195
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 333
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_196
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 332
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_197
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 330
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_198
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 329
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_199
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 328
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_200
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 333
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_201
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 334
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_202
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 330
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_203
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 335
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_204
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 334
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_205
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 335
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_206
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 329
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_207
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 329
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_208
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 337
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_209
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 333
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_210
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 274
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_211
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 274
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_212
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 273
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_213
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 272
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_214
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 272
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_215
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 275
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_216
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 274
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_217
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 273
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_218
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 276
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_219
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_220
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 275
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_221
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 272
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_222
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 272
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_223
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 277
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_224
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 275
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_225
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_226
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 212
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_227
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 213
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_228
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 213
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_229
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 212
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_230
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 213
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_231
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 214
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_232
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_233
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 216
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_234
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 215
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_235
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 215
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_236
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 214
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_237
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 214
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_238
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 217
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_239
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 216
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_240
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_241
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_242
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 149
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_243
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 148
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_244
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 148
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_245
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 155
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_246
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 155
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_247
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 153
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_248
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 156
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_249
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 155
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_250
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 155
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_251
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 154
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_252
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 155
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_253
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 157
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_254
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 156
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_255
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_256
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 90
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_257
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 89
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_258
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 88
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_259
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 87
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_260
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 94
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_261
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 94
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_262
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 92
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_263
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 96
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_264
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 93
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_265
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 94
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_266
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 90
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_267
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 90
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_268
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 95
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_269
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 95
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_270
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_271
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_272
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_273
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 24
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_274
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 24
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_275
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 35
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_276
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 33
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_277
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 32
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_278
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 36
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_279
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 35
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_280
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 35
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_281
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 28
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_282
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 30
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_283
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 37
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_284
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 35
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_286
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_289
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_294
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_322
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_337
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_345
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Brown_noBG_354
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

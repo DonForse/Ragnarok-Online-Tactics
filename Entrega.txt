@@ -1,0 +1,5 @@
+Apellido nombre
+PC -> Build PC
+Web -> Build Web
+Video (Opcional) -> Fraps o algun coso q guarde el video.
+ObsProject

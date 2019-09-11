@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: c2bc7f363f3416343a823e40ec168337
+timeCreated: 1447608990
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Poring_0
+    21300002: Poring_1
+    21300004: Poring_2
+    21300006: Poring_3
+    21300008: Poring_4
+    21300010: Poring_5
+    21300012: Poring_6
+    21300014: Poring_7
+    21300016: Poring_8
+    21300018: Poring_9
+    21300020: Poring_18
+    21300022: Poring_19
+    21300024: Poring_20
+    21300026: Poring_21
+    21300028: Poring_22
+    21300030: Poring_23
+    21300032: Poring_24
+    21300034: Poring_25
+    21300036: Poring_26
+    21300038: Poring_27
+    21300040: Poring_28
+    21300042: Poring_29
+    21300044: Poring_30
+    21300046: Poring_31
+    21300048: Poring_32
+    21300050: Poring_33
+    21300052: Poring_34
+    21300054: Poring_35
+    21300056: Poring_36
+    21300058: Poring_37
+    21300060: Poring_38
+    21300062: Poring_39
+    21300064: Poring_40
+    21300066: Poring_41
+    21300068: Poring_42
+    21300070: Poring_43
+    21300072: Poring_44
+    21300074: Poring_45
+    21300076: Poring_46
+    21300078: Poring_47
+    21300080: Poring_48
+    21300082: Poring_49
+    21300084: Poring_50
+    21300086: Poring_51
+    21300088: Poring_52
+    21300090: Poring_53
+    21300092: Poring_54
+    21300094: Poring_55
+    21300096: Poring_56
+    21300098: Poring_57
+    21300100: Poring_10
+    21300102: Poring_11
+    21300104: Poring_12
+    21300106: Poring_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Poring_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 642
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 642
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 644
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 642
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 578
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 578
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 578
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 451
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 451
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 451
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_21
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 451
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 386
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 386
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 388
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 386
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 322
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 322
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 322
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 324
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 258
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 258
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 258
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_37
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 258
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 194
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 194
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 194
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 130
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_56
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 66
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 508
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 511
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 509
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Poring_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 506
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+Sprite Editor, con los puntos verdes se hace un "border" sirve para hacer el efecto de 9 slices que cuando estiras no se deforma.
+
+Animator: Make transitions. GetComponent<Animator>(). SetTrigger();
+
+Desde el timeline, click derecho, AddEvent() -> en el momento X hace una llamada a la funcion q se ponga.,

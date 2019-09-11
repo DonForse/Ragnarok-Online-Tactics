@@ -1,0 +1,6 @@
+Panel Scroll Rect (crea un scroll en el espacio del panel).
+Se le puede pasar como content, otro panel.
+
+Agregarle Mask me permite limitar el contenido al panel.
+
+Animator Dopesheet and Curve, para controlar el movimiento de un punto a otro.

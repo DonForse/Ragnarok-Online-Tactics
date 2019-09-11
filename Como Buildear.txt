@@ -1,0 +1,7 @@
+File > Build Settings
+
+Web Player  + Windows
+
+Player Settings
+
+Iconoo: le pones Editor GUI and Legacy GUI

@@ -1,0 +1,15 @@
+public AudioClip aClip;
+Input.GetKeyDown(a){
+var a = GetComponent<AudioSource>();
+a.Play();
+a.PlayOneShot(aClip);
+}
+
+AudioSource.PlayClipAtPoint() (para no hacer lio con los destroy, crea un sonido en un punto del mundo).
+AudioListener.Volume() (silencia los ruidos).
+
+musica ".it" ocupa poco. (background)
+
+Particle System (nuevo sistema de particulas para efectos).
+
+Bosca Ceoil

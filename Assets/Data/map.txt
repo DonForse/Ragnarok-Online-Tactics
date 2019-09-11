@@ -1,0 +1,10 @@
+C|P|T|P|P|P|P|P|P|C|C|C|C|P|H
+C|P|P|P|P|P|P|P|P|P|P|P|C|T|P
+C|P|P|P|P|P|P|P|P|P|P|P|P|T|P
+P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
+P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
+P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
+P|P|P|P|P|P|P|P|P|P|P|P|P|P|P
+P|P|P|c|P|P|P|P|P|P|P|P|P|M|M
+P|P|Q|Q|Q|P|P|P|P|P|P|m|m|M|M
+m|m|Q|Q|Q|P|P|T|P|m|m|M|M|M|M
